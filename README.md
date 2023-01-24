@@ -83,7 +83,7 @@ Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane,
 John.
-
+and assign them to teams..
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
