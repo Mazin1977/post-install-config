@@ -81,8 +81,8 @@ Registration Required: Require registration and login to create tickets
 <p>
 Configure Agents (workers)
 Admin Panel -> Agents -> Add New
-Jane
-John
+Jane,
+John.
 
 </p>
 <p>
