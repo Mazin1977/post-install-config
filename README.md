@@ -40,7 +40,7 @@ Configure Roles
 Admin Panel -> Agents -> Roles
 Supreme Admin
 Roles as shown above
-so we can creat new roles..
+so we can creat new roles and set permissions for it..
 </p>
 <br />
 
