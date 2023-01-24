@@ -91,7 +91,7 @@ and assign them to teams..
 <p>
 Configure Users (customers)
 Agent Panel -> Users -> Add New
-Karen
+Karen,
 Ken
 
 </p>
