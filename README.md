@@ -76,7 +76,7 @@ Registration Required: Require registration and login to create tickets
 
 </p>
 <p>
-<img src="https://i.imgur.com/xhj7G0b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ojpjaNg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Agents (workers)
