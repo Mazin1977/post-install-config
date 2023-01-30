@@ -45,7 +45,7 @@ so we can creat new roles and set permissions and tasks for it..
 <br />
 
 <p>
-<img src="https://i.imgur.com/Jq8tb30.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2mnldiC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Configure Departments
