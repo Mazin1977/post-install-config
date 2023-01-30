@@ -67,7 +67,7 @@ Level II Support
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/vtviCuL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7dEiC8r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Allow anyone to create tickets
